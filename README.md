@@ -34,15 +34,12 @@ See
   test.
 - Lints with `stylua`.
 
-## More
-
-To see this template in action, take a look at my other plugins.
-
-## License MIT
-
 ## Acknowledgements
 
+### In alphabetical order:
+
+- Gummo © 1997 New Line Cinema
+- [iron.nvim](https://github.com/Vigemus/iron.nvim)
+- [magma.nvim](https://github.com/dccsillag/magma-nvim)
 - [marimo](https://marimo.io/)
 - [molten.nvim](https://github.com/benlubas/molten-nvim)
-- [iron.nvim](https://github.com/Vigemus/iron.nvim)
-- Gummo © 1997 New Line Cinema
